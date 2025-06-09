@@ -1,6 +1,6 @@
 import pandas as pd
 
-TV_file_path = r"C:\WOLF\Private\GUNI YEAR 3\ML\TELEVISION.csv"
+TV_file_path = r"Data/TELEVISION.csv"
 
 def TV_load_dataset():
     TV_encodings = ['utf-8', 'latin-1', 'cp1252', 'iso-8859-1']
