@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path to your dataset (update path as needed)
-AC_FILE_PATH = r"C:\\WOLF\\Private\\GUNI YEAR 3\\ML\\Air_condition_dataset.csv"
+AC_FILE_PATH = r"Data/Washingmachine.csv"
 
 def load_ac_dataset(file_path=AC_FILE_PATH):
     """
